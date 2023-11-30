@@ -1,0 +1,49 @@
+.banner .slider {
+  height: 75%;
+}
+
+.banner .slider div {
+  height: 100%;
+}
+
+.banner .slider .mainSlider {
+  margin: 0;
+  height: 100%;
+  color: #fff;
+  line-height: 160px;
+  text-align: center;
+  background: #364d79;
+  display: inline-flex !important;
+}
+
+.banner .item {
+  padding: 5px 10px;
+  height: 25%;
+}
+
+.banner .item .itemSlider {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: "60px";
+  height: "60px";
+  text-align: center;
+}
+
+.banner .item .itemSlider .icon {
+  margin: 0;
+  color: var(--blue);
+  font-size: 30px;
+}
+
+.banner .item .itemSlider .title {
+  /* margin: 0;
+    width: '60px';
+    height: '60px';
+    color: '#fff';
+    line-height: '60px';
+    text-align: 'center';
+    background: '#364d79';
+    font-size: 40px; */
+}

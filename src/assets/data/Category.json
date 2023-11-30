@@ -1,0 +1,476 @@
+{
+    "data": {
+        "categoryList": [
+            {
+                "featured_icon": "/media/catalog/category/ICON-434.jpg",
+                "featured_app_icon": "/media/catalog/category/icon_thoi_trang_he_be_trai.png",
+                "children_count": "30",
+                "children": [
+                    {
+                        "id": 304,
+                        "level": 3,
+                        "name": "Thời trang bé gái",
+                        "path": "1/2/50/304",
+                        "url_path": "thoi-trang-be-gai",
+                        "url_key": "thoi-trang-be-gai",
+                        "children": [
+                            {
+                                "id": 744,
+                                "level": 4,
+                                "name": "Váy - Đầm bé gái",
+                                "path": "1/2/50/304/744",
+                                "url_path": "vay-be-gai",
+                                "image": null,
+                                "mobile_image": null,
+                                "image1": null,
+                                "featured_icon": "ICON-458.jpg",
+                                "featured_app_icon": "icon_vay_dam_be_gai.png",
+                                "children": [
+                                    {
+                                        "id": 744,
+                                        "level": 4,
+                                        "name": "Váy - Đầm bé gái",
+                                        "path": "1/2/50/304/744",
+                                        "url_path": "vay-be-gai",
+                                        "image": null,
+                                        "mobile_image": null,
+                                        "image1": null,
+                                        "featured_icon": "ICON-458.jpg",
+                                        "featured_app_icon": "icon_vay_dam_be_gai.png"
+                                    },
+                                    {
+                                        "id": 742,
+                                        "level": 4,
+                                        "name": "Áo bé gái",
+                                        "path": "1/2/50/304/742",
+                                        "url_path": "ao-be-gai",
+                                        "image": null,
+                                        "mobile_image": null,
+                                        "image1": null,
+                                        "featured_icon": "/media/catalog/category/ICON-435.jpg",
+                                        "featured_app_icon": "/media/catalog/category/icon_Ao_be_gai.png"
+                                    },
+                                    {
+                                        "id": 743,
+                                        "level": 4,
+                                        "name": "Quần bé gái",
+                                        "path": "1/2/50/304/743",
+                                        "url_path": "quan-be-gai",
+                                        "image": null,
+                                        "mobile_image": null,
+                                        "image1": null,
+                                        "featured_icon": "ICON-440.jpg",
+                                        "featured_app_icon": "icon_Quan_be_gai.png"
+                                    },
+                                    {
+                                        "id": 745,
+                                        "level": 4,
+                                        "name": "Bộ quần áo bé gái",
+                                        "path": "1/2/50/304/745",
+                                        "url_path": "bo-quan-ao-be-gai",
+                                        "image": null,
+                                        "mobile_image": null,
+                                        "image1": null,
+                                        "featured_icon": null,
+                                        "featured_app_icon": null
+                                    },
+                                    {
+                                        "id": 737,
+                                        "level": 4,
+                                        "name": "Giày dép bé gái",
+                                        "path": "1/2/50/304/737",
+                                        "url_path": "giay-dep-be-gai",
+                                        "image": null,
+                                        "mobile_image": null,
+                                        "image1": null,
+                                        "featured_icon": null,
+                                        "featured_app_icon": null
+                                    },
+                                    {
+                                        "id": 788,
+                                        "level": 4,
+                                        "name": "Mũ & mũ len bé gái",
+                                        "path": "1/2/50/304/788",
+                                        "url_path": "mu-mu-len-be-gai",
+                                        "image": null,
+                                        "mobile_image": null,
+                                        "image1": null,
+                                        "featured_icon": null,
+                                        "featured_app_icon": null
+                                    },
+                                    {
+                                        "id": 243,
+                                        "level": 4,
+                                        "name": "Băng đô & cặp tóc",
+                                        "path": "1/2/50/304/243",
+                                        "url_path": "bang-do-cap-toc-phu-kien",
+                                        "image": null,
+                                        "mobile_image": null,
+                                        "image1": null,
+                                        "featured_icon": null,
+                                        "featured_app_icon": null
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 742,
+                                "level": 4,
+                                "name": "Áo bé gái",
+                                "path": "1/2/50/304/742",
+                                "url_path": "ao-be-gai",
+                                "image": null,
+                                "mobile_image": null,
+                                "image1": null,
+                                "featured_icon": "/media/catalog/category/ICON-435.jpg",
+                                "featured_app_icon": "/media/catalog/category/icon_Ao_be_gai.png"
+                            },
+                            {
+                                "id": 743,
+                                "level": 4,
+                                "name": "Quần bé gái",
+                                "path": "1/2/50/304/743",
+                                "url_path": "quan-be-gai",
+                                "image": null,
+                                "mobile_image": null,
+                                "image1": null,
+                                "featured_icon": "ICON-440.jpg",
+                                "featured_app_icon": "icon_Quan_be_gai.png"
+                            },
+                            {
+                                "id": 745,
+                                "level": 4,
+                                "name": "Bộ quần áo bé gái",
+                                "path": "1/2/50/304/745",
+                                "url_path": "bo-quan-ao-be-gai",
+                                "image": null,
+                                "mobile_image": null,
+                                "image1": null,
+                                "featured_icon": null,
+                                "featured_app_icon": null
+                            },
+                            {
+                                "id": 737,
+                                "level": 4,
+                                "name": "Giày dép bé gái",
+                                "path": "1/2/50/304/737",
+                                "url_path": "giay-dep-be-gai",
+                                "image": null,
+                                "mobile_image": null,
+                                "image1": null,
+                                "featured_icon": null,
+                                "featured_app_icon": null
+                            },
+                            {
+                                "id": 788,
+                                "level": 4,
+                                "name": "Mũ & mũ len bé gái",
+                                "path": "1/2/50/304/788",
+                                "url_path": "mu-mu-len-be-gai",
+                                "image": null,
+                                "mobile_image": null,
+                                "image1": null,
+                                "featured_icon": null,
+                                "featured_app_icon": null
+                            },
+                            {
+                                "id": 243,
+                                "level": 4,
+                                "name": "Băng đô & cặp tóc",
+                                "path": "1/2/50/304/243",
+                                "url_path": "bang-do-cap-toc-phu-kien",
+                                "image": null,
+                                "mobile_image": null,
+                                "image1": null,
+                                "featured_icon": null,
+                                "featured_app_icon": null
+                            }
+                        ]
+                    },
+                    {
+                        "id": 303,
+                        "level": 3,
+                        "name": "Thời trang bé trai",
+                        "path": "1/2/50/303",
+                        "url_path": "thoi-trang-be-trai",
+                        "url_key": "thoi-trang-be-trai",
+                        "children": [
+                            {
+                                "id": 739,
+                                "level": 4,
+                                "name": "Áo bé trai",
+                                "path": "1/2/50/303/739",
+                                "url_path": "ao-be-trai",
+                                "image": null,
+                                "mobile_image": null,
+                                "image1": null,
+                                "featured_icon": "/media/catalog/category/ICON-438.jpg",
+                                "featured_app_icon": "/media/catalog/category/icon_Ao_be_trai.png"
+                            },
+                            {
+                                "id": 740,
+                                "level": 4,
+                                "name": "Quần bé trai",
+                                "path": "1/2/50/303/740",
+                                "url_path": "quan-be-trai",
+                                "image": null,
+                                "mobile_image": null,
+                                "image1": null,
+                                "featured_icon": "ICON-439.jpg",
+                                "featured_app_icon": "icon_Quan_be_trai.png"
+                            },
+                            {
+                                "id": 741,
+                                "level": 4,
+                                "name": "Bộ quần áo bé trai",
+                                "path": "1/2/50/303/741",
+                                "url_path": "bo-quan-ao-be-trai",
+                                "image": null,
+                                "mobile_image": null,
+                                "image1": null,
+                                "featured_icon": null,
+                                "featured_app_icon": null
+                            },
+                            {
+                                "id": 738,
+                                "level": 4,
+                                "name": "Giày dép bé trai ",
+                                "path": "1/2/50/303/738",
+                                "url_path": "giay-dep-be-trai",
+                                "image": null,
+                                "mobile_image": null,
+                                "image1": null,
+                                "featured_icon": null,
+                                "featured_app_icon": null
+                            },
+                            {
+                                "id": 787,
+                                "level": 4,
+                                "name": "Mũ & mũ len bé trai",
+                                "path": "1/2/50/303/787",
+                                "url_path": "mu-mu-len-be-trai",
+                                "image": null,
+                                "mobile_image": null,
+                                "image1": null,
+                                "featured_icon": null,
+                                "featured_app_icon": null
+                            }
+                        ]
+                    },
+                    {
+                        "id": 263,
+                        "level": 3,
+                        "name": "Balo thời trang",
+                        "path": "1/2/50/263",
+                        "url_path": "balo-tui-dung-do-cho-be",
+                        "url_key": "balo-tui-dung-do-cho-be",
+                        "children": []
+                    },
+                    {
+                        "id": 584,
+                        "level": 3,
+                        "name": "Kính mắt thời trang",
+                        "path": "1/2/50/584",
+                        "url_path": "kinh-mat-thoi-trang",
+                        "url_key": "kinh-mat-thoi-trang",
+                        "children": []
+                    },
+                    {
+                        "id": 489,
+                        "level": 3,
+                        "name": "Khẩu trang cho bé",
+                        "path": "1/2/50/489",
+                        "url_path": "khau-trang-cho-be",
+                        "url_key": "khau-trang-cho-be",
+                        "children": []
+                    },
+                    {
+                        "id": 275,
+                        "level": 3,
+                        "name": "Găng tay và tất",
+                        "path": "1/2/50/275",
+                        "url_path": "gang-tay-tat-bit-tai-cho-be",
+                        "url_key": "gang-tay-tat-bit-tai-cho-be",
+                        "children": []
+                    }
+                ],
+                "description": "<h2><a name=\"quan-ao-thoi-trang-cho-be\"></a>Quần áo thời trang cho bé</h2>\r\n<p><a href=\"https://www.kidsplaza.vn/quan-ao-thoi-trang-cho-be.html\">Thời trang trẻ em</a> phát triển kéo theo đó là những xu hướng thiết kế mẫu mã đa dạng và phong phú. Với thế giới <strong>quần áo thời trang cho bé</strong> ngập tràn màu sắc được bày bán rất nhiều, việc lựa chọn <strong>quần áo cho bé trai hay quần áo cho bé gái</strong> không chỉ là việc lựa chọn một bộ quần áo đẹp mà cũng xuất phát từ việc lựa chọn chất liệu phù hợp với con yêu của bạn.<br />Với sự đa dạng về các mặt hàng <strong>thời trang trẻ em</strong> mang lại cho ba mẹ nhiều lựa chọn cùng với đó là sự thích thú của trẻ khi mặc những bộ quần áo đẹp mắt, ngộ nghĩnh và thoải mái khi đi học, đi chơi.</p>\r\n<p>                                                 <img src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/quan-ao-tre-em-cho-be.jpg\" alt=\"\" /></p>\r\n<h2><a name=\"huong-dan-chon-do-cho-tre\"></a>Hướng dẫn chọn đồ cho trẻ</h2>\r\n<p>Khi chọn mua bất cứ sản phẩm nào đó không chỉ riêng quần áo thì không chỉ đơn thuần là lựa chọn một sản phẩm đẹp mắt hay thu hút bạn mà bạn cần xem kỹ những yếu tố khác như chất kiệu, kích cỡ hay kiểu dáng, nhãn hiệu của sản phẩm đó. Đối với <strong>quần áo thời trang cho bé</strong>, bạn cần lưu ý những đặc điểm này để lựa chọn cho con yêu những bộ quần áo phù hợp nhất.</p>\r\n<p><span>• </span><strong>Chất liệu vải</strong>: là một trong những yếu tố quan trọng được quan tâm nhiều nhất bởi một chất liệu tốt sẽ đem lại sự thoải mái nhất cho người mặc chúng. Hiện nay, chất liệu vải cotton đang là lựa chọn được ưu tiên của các bà mẹ khi mua quần áo cho con, với đặc điểm mềm mại, mát mẻ và dễ thấm nước, mặc rất thích. Tuy nhiên, khi lựa chọn mua quần áo chất liệu cotton thì bạn nên chọn mua quần áo lớn hơn 1 size so với cân nặng và chiều cao của trẻ bởi do tính chất mềm mại, dễ thấm nước nên chất liệu cotton rất dễ bị co lại sau những lần giặt đầu tiên.<br /><span>• </span><strong>Kích cỡ quần áo</strong>: khi mua bố mẹ nên chú ý đến chiều cao và cân nặng của trẻ để lựa chọn những bộ quần áo vừa vặn với con nhất đem lại sự thoải mái, không bí bách khi mặc. Đặc biêt, ở trong giai đoạn sơ sinh bé thường phát triển khác nhanh nên bạn không nên mua quá nhiều một lúc để tránh gây lãng phí.<br /><span>• </span><strong>Kiểu dáng</strong>: với trẻ nhỏ không nên mặc quá cầu kỳ, rườm rà mà kiểu dáng quần áo cho trẻ cần đơn giản với những thiết kế cổ tròn hay cổ tim và đặc biệt là không quá bó sát để mỗi khi mặc trẻ sẽ cảm thấy thoải mái nhất, tránh mua những loại quần áo chui đầu, quần áo có nút bấm và kim loại bởi những phụ kiện này sẽ để lại trên da trẻ những vết hằn hoặc không may sẽ nuốt phải.<br /><span>• </span><strong>Màu sắc</strong>: việc lựa chọn màu sắc phụ thuộc vào giới tính của trẻ. Với các bé trai thường có màu sắc đơn giản, trung tính như màu xanh, nâu,... còn các bé gái thì nổi bật hơn như đỏ, cam, hồng, vàng,...</p>\r\n<p>                                                 <img src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/quan-ao-tre-em-cho-be1.jpg\" alt=\"\" /></p>\r\n<p>Với một số vật dụng khác ngoài quần áo như tất tay, tất chân, mũ, yếm là những vật dụng hỗ trợ giữ ấm hay che nắng cho trẻ tùy thuộc vào từng đồ. Với găng tay, găng chân bạn nên chọn những chất liệu co giãn tốt để bé dễ dàng cử động tay chân còn với mũ cho trẻ, cần có thêm vành tai để giữ ấm vào mùa đông và loại có vành mũ rộng trong mùa hè.</p>\r\n<p>Như đã biết, với tâm lý của trẻ nhỏ rất thích thay đổi, thích đồ mới nên mỗi lần mua, mẹ nên mua từ 1-2 bộ, liên tục thay đổi để trẻ thấy thích thú. Ngoài ra, da của trẻ rất nhạy cảm do đó không nên ham rẻ mà mua những loại quần áo kém chất lượng, có phẩm màu không an toàn cho trẻ, nhưng cũng không cần mua quần áo thời trang cho trẻ quá đắt đỏ hay hàng hiệu đắt tiền. Hiện nay trên thị trường có rất nhiều sản phẩm quần áo trẻ em chất liệu tốt và giá cả hợp lý, các mẹ có thể tham khải tại hệ thống cửa hàng Kids Plaza với đầy đủ mẫu mã cho mẹ lựa chọn.</p>\r\n<p>&gt;&gt;&gt;Cách chọn quần áo cho bé: <a href=\"https://www.kidsplaza.vn/blog/cach-chon-quan-ao-mua-he-cho-be.html\">https://www.kidsplaza.vn/blog/cach-chon-quan-ao-mua-he-cho-be.html</a></p>",
+                "banner": null,
+                "banner_active_from": null,
+                "banner_active_to": null,
+                "banner_from_date": "2194-02-11 00:00:00",
+                "banner_head": "/media/catalog/category/Banner_danh_muc_1.png",
+                "banner_menu_image": "/media/catalog/category/thoitrang1.png",
+                "banner_mobile_image": null,
+                "banner_to_date": "2194-09-11 00:00:00",
+                "banner_url": "https://www.kidsplaza.vn/he-ruc-ro-cung-mamago-2020",
+                "breadcrumbs": null,
+                "products": {
+                    "total_count": 737,
+                    "items": [
+                        {
+                            "name": "Body bé trai cài giữa KidsPlaza họa tiết bông voi cute HN22D ",
+                            "sku": "KIDS-412230144-1",
+                            "description": {
+                                "html": "<h2><strong>Body bé trai cài giữa KidsPlaza bông voi cute cho bé</strong></h2>\r\n<p><strong><a href=\"https://www.kidsplaza.vn/quan-ao-so-sinh.html\">Body bé trai</a></strong> KidsPlaza bông voi HN22D là mẫu body được yêu thích nhất trong bộ sưu tập đồ sơ sinh của KidsPlaza. Với thiết kế đơn giản, họa tiết đáng yêu mang đến sự năng động, tươi mới cho một ngày dài</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/do-so-sinh-2023/quan-ao-so-sinh/body-be-trai-cai-giua-kidsplaza-bong-voi-hn22d-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Body bé trai cài giữa KidsPlaza bông voi HN22D </em></p>\r\n<p><strong>Body cho bé trai</strong> liền thân gợi sự gọn gàng khi vận động. Phần eo body được may rộng rãi tạo sự thoải mái cho bụng bé mỗi khi lật thân hay bò trườn</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/do-so-sinh-2023/quan-ao-so-sinh/body-be-trai-cai-giua-kidsplaza-bong-voi-hn22d-2.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Với khả năng kháng khuẩn vượt trội, được làm từ chất liệu <strong>100% cotton cao cấp</strong> có khả năng thấm hút và co dãn tốt đồng thời rất thân thiện với làn da mỏng manh của bé</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/do-so-sinh-2023/quan-ao-so-sinh/body-be-trai-cai-giua-kidsplaza-bong-voi-hn22d-4.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Đường chỉ may chắc chắn, đường vắt sổ cẩn thận, không gây cộm, khó chịu khi bé diện trang phục suốt cả ngày.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/do-so-sinh-2023/quan-ao-so-sinh/body-be-trai-cai-giua-kidsplaza-bong-voi-hn22d-3.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Hàng cúc bấm bên dưới đũng thuận tiện cho mẹ mỗi khi thay tã bỉm cho trẻ đũng body rộng rãi, được đẩy xuống dài hơn để không gây cản trở cho các hoạt động của bé khi mặc bỉm tã bên trong</p>\r\n<h3>Thông tin chi tiết:</h3>\r\n<p>Tên sản phẩm: Body bé trai cài giữa KidsPlaza bông voi HN22D</p>\r\n<p>Độ tuổi: 3-18M</p>\r\n<p>Thương hiệu: Kids Plaza</p>\r\n<p>Xuất xứ: Việt Nam.</p>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 279000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Bộ quần áo bé trai cài vai KidsPlaza bông voi HN22D",
+                            "sku": "KIDS-412190260",
+                            "description": {
+                                "html": "<h2>Bộ quần áo cài vai KidsPlaza bông voi cho bé trai từ 6-24 tháng tuổi</h2>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-quan-ao-be-trai-cai-vai-kidsplaza-bong-voi-hn22d-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Bộ quần áo bé trai cài vai KidsPlaza bông voi HN22D</em></p>\r\n<p style=\"text-align: left;\">Mùa đông tới gần là lúc bé cần có một bộ quần áo giữ ấm để <strong>bảo vệ cơ thể trước thời tiết bên ngoài</strong>. Bộ quần áo bé trai cài vai KidsPlaza bông voi HN22D sẽ là gợi ý cho bé trong bộ sưu tập thời trang năm nay</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-quan-ao-be-trai-cai-vai-kidsplaza-bong-voi-hn22d-2.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Bộ <strong><a href=\"https://www.kidsplaza.vn/bo-quan-ao-be-trai.html\">quần áo bé trai</a></strong> cài vai KidsPlaza bông voi được làm từ chất liệu<strong> trần bông cao cấp</strong> dày dặn đem đến sự mềm mại, thoải mái, ấm áp, không gây khó chịu cho bé khi mặc</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-quan-ao-be-trai-cai-vai-kidsplaza-bong-voi-hn22d-3.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Cổ áo được bo tròn chuẩn chỉnh, mềm mại ôm sát không gây cộm đem đến cho bé cảm giác dễ chịu, an tâm khi mặc</p>\r\n<p>Thiết kế cúc bấm cài vai tiện lợi cho bé mỗi khi mẹ mặc hay thay đồ cho bé</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-quan-ao-be-trai-cai-vai-kidsplaza-bong-voi-hn22d-4.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Bộ quần áo bé trai cài vai in ô tô với thiết kế <strong>tinh tế, màu sắc tươi sáng</strong> kết hợp ăn ý mang đến sự năng động, tinh nghịch và bứt phá trong mọi cuộc vui của bé</p>\r\n<p>Sản phẩm bộ thu đông bé trai có đường may đẹp, vắt sổ chắc chắn cùng các hình in độc lạ ngộ nghĩnh, thương hiệu thời trang trẻ em <strong><a href=\"https://www.kidsplaza.vn/\">KidsPlaza</a></strong> chắc chắn sẽ làm hài lòng các thiên thần nhỏ cùng các mẹ khó tính nhất.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-quan-ao-be-trai-cai-vai-kidsplaza-bong-voi-hn22d-5.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Quần được thiết kế cùng chất liệu chun co giãn, ống quần bo kín đáo đem tới cho bé sự ấm áp, bảo vệ bé trước những cơn gió lạnh</p>\r\n<h3><strong>Bảo quản sản phẩm:</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không nên giặt bằng máy giặt, nên giặt tay để giữ độ bền cho sản phẩm</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 40°C</p>\r\n</li>\r\n<li>\r\n<p>Nên ủi/là mặt trái sản phẩm</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 299000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Sét váy dạ 2 dây KidsPlaza M22D (Trắng đỏ) ",
+                            "sku": "KIDS-612230394",
+                            "description": {
+                                "html": "<h2>Sét váy dạ tiểu thư lộng lẫy, kiêu sa cho bé gái</h2>\r\n<p><strong><a href=\"https://www.kidsplaza.vn/vay-be-gai.html\">Set váy dạ tiểu thư</a></strong> KidsPlaza M22D (Trắng Đỏ) mang một phong cách tiểu thưa sang trọng giúp bé luôn nổi bật trước tất cả các buổi tiệc.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai/set-vay-da-2-day-kidsplaza-m22d-mau-do-1y-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Sét váy dạ 2 dây KidsPlaza M22D (Trắng đỏ)</em></p>\r\n<p style=\"text-align: left;\">Với chất liệu làm từ <strong>dạ cao cấp</strong> siêu sang chảnh, mềm mại kết hợp với vải tuyn bồng bềnh tạo một độ xoè giúp cho bộ váy càng thêm độ sang trọng, thanh lịch.</p>\r\n<p style=\"text-align: left;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai/set-vay-da-2-day-kidsplaza-m22d-mau-do-1y-2.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: left;\"><strong>Váy dạ tay dài</strong> là sự kết hợp giữa tone màu đỏ tươi kết hợp với màu trắng nhẹ nhàng vừa giúp sáng da, vừa giúp bé thêm điệu đà làm nổi bật giữa tất cả mọi người</p>\r\n<p style=\"text-align: left;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai/set-vay-da-2-day-kidsplaza-m22d-mau-do-1y-3.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: left;\">Sét váy dạ tiểu thư sẽ rất phù hợp cho các bé gái từ<strong> 1-4 tuổi.</strong></p>\r\n<h3><strong>Bảo quản sản phẩm:</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không nên giặt bằng máy giặt, nên giặt tay để giữ độ bền cho sản phẩm</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 40°</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 290000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Sét váy dạ KidsPlaza nơ ngực M22D (Trắng kem)",
+                            "sku": "KIDS-612230382",
+                            "description": {
+                                "html": "<h2>Sét váy dạ tiểu thư sang chảnh cho bé gái từ 1-4 tuổi</h2>\r\n<p><strong>KidsPlaza</strong> cho ra mắt bộ sưu tập váy dễ thương, sang chảnh giúp bé luôn nổi bật trong các dịp lễ.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai/set-vay-da-kidsplaza-no-nguc-m22d-trang-kem-1y-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Sét váy dạ KidsPlaza nơ ngực M22D (Trắng kem)</em></p>\r\n<p><a href=\"https://www.kidsplaza.vn/vay-be-gai.html\"><strong> Sét váy dạ</strong></a> được thiết kế tựu như nàng công chúa, nhẹ nhàng, toát lên vẻ dịu dàng, kiêu xa của cô tiểu thư đaì cát sẽ giúp bé sẽ luôn nổi bật nhất trong các buổi tiệc.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai/set-vay-da-kidsplaza-no-nguc-m22d-trang-kem-1y-2.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Váy được thiết kế từ chất liệu<strong> cotton siêu mềm</strong>, nhẹ đem lại cho bé cảm giác thoải mái, không gây khó chịu khi vận động, vui chơi.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai/set-vay-da-kidsplaza-no-nguc-m22d-trang-kem-1y-3.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Từ một tình yêu của <strong>KidsPlaza</strong> dành các bé đã thiết kế ra sét váy vừa đảm bảo độ ấm cho bé, vừa giúp bé có thể nổi bật hơn giữa đám đông bởi sự kết hợp một cách tinh tế điểm tô thêm một chiếc nơ tạo điểm nhấn hơn cho chiếc váy trước mọi ánh nhìn.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai/set-vay-da-kidsplaza-no-nguc-m22d-trang-kem-1y-4.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p><strong> Sét váy dạ</strong> có đầy đủ các <strong>size từ 1-4 tuổi</strong>, tha hồ cho các mẹ lựa chọn cho các bé.</p>\r\n<h3>Hướng dẫn sử dụng và bảo quản sản phẩm</h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không nên giặt bằng máy giặt, nên giặt tay để giữ độ bền cho sản phẩm</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 30°C</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 300000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Sét váy dạ nơ ngực KidsPlaza M22D (Trắng hồng) ",
+                            "sku": "KIDS-612230378",
+                            "description": {
+                                "html": "<h2>Sét váy dạ nơ ngực tiểu thư điệu đà cho bé gái</h2>\r\n<p>Vào thời điểm các dịp lễ hội sắp diễn ra KidsPlaza cho ra mắt bộ sưu váy thu đông, giúp cho các mẹ thoả sức lựa chọn trang phục cho các bé.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai/set-vay-da-no-nguc-kidsplaza-m22d-trang-hong-1y-2.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Sét váy dạ nơ ngực KidsPlaza M22D (Trắng hồng) </em></p>\r\n<p><a href=\"https://www.kidsplaza.vn/vay-be-gai.html\"><strong> Sét váy dạ nơ ngực</strong></a> với sự kết hợp giữa hai tone màu trắng hồng tạo nên một sự nhẹ nhàng, nữ tính, cùng với đó là điểm tô thêm một chiếc nơ giúp cho sét váy càng thêm hài hoà, cân đối rất phù hợp cho các dịp lễ cuối năm.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai/set-vay-da-no-nguc-kidsplaza-m22d-trang-hong-1y-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p><strong>Sét váy dạ</strong> được làm từ vải dạ cao cấp giúp bé có cảm giác thoải mái khi mặc, có các size <strong>từ 1-4 tuổi</strong> cho mẹ thoả sức lựa chọn trang phục cho bé.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai/set-vay-da-no-nguc-kidsplaza-m22d-trang-hong-1y-3.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Đây sẽ là bộ trang phục hoàn hảo nhất khi các bé có thể được khoác trên mình những bộ váy lung linh, nhưng không kém phần sang trọng.</p>\r\n<h3>Hướng dẫn sử dụng và bảo quản sản phẩm</h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không nên giặt bằng máy giặt, nên giặt tay để giữ độ bền cho sản phẩm</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 30°C</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 450000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Sét váy dạ 2 dây KidsPlaza M22D (Trắng be)",
+                            "sku": "KIDS-612230398",
+                            "description": {
+                                "html": "<h2>Sét váy dạ dài tay trắng be điệu đà, tiểu thư cho bé gái</h2>\r\n<p>Vào dịp lễ tết, <a href=\"https://www.kidsplaza.vn/vay-be-gai.html\"><strong>sét váy dạ</strong></a> là một trong những lựa chọn phù hợp cho các mẹ, vừa có thể giữ ấm cho bé, vừa có thể giúp bé trông nổi bật hơn trong các dịp lễ.</p>\r\n<p style=\"text-align: center;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai/set-vay-da-2-day-kidsplaza-m22d-trang-be-1y-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Sét váy dạ 2 dây KidsPlaza M22D (Trắng be)</em></p>\r\n<p style=\"text-align: left;\">Với chất liệu làm từ <strong>95% cotton</strong>, tạo cho bé cảm giác thoải mái vui chơi kết hợp cùng với vải tuyn lấp lánh tạo nên một độ phồng bồng bềnh cho bộ váy càng thêm lung linh, sang trọng.</p>\r\n<p style=\"text-align: left;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai/set-vay-da-2-day-kidsplaza-m22d-trang-be-1y-3.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: left;\"><strong>Sét váy dạ KidsPlaza</strong> sẽ giúp cho bé thật là xinh xắn, lung linh trong những buổi vui chơi mà không lo cảm giác khó chịu cho bé. </p>\r\n<p style=\"text-align: left;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai/set-vay-da-2-day-kidsplaza-m22d-trang-be-1y-2.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Sét váy dạ có đầy đủ các <strong>size từ 1-4 tuổi</strong> giúp cho các mẹ không phải đau đầu khi lựa chọn trang phục cho các bé.</p>\r\n<h3><strong>Bảo quản sản phẩm:</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không nên giặt bằng máy giặt, nên giặt tay để giữ độ bền cho sản phẩm</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 40°</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 450000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Áo len hổ cá sấu phối KidsPlaza HN22D (vàng nâu)",
+                            "sku": "KIDS-412260444",
+                            "description": {
+                                "html": "<h2>Áo len bé trai KidsPlaza phối in họa tiết dễ thương, năng động.</h2>\r\n<p>Thời tiết mùa đông đã đến cũng là lúc bộ sưu tập quần áo mùa đông của <strong>KidsPlaza</strong> cho ra mắt các sản phẩm dành cho bé.</p>\r\n<p style=\"text-align: center;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/_MG_3098.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Áo len hổ cá sấu phối KidsPlaza HN22D (vàng nâu)</em></p>\r\n<p><a href=\"https://www.kidsplaza.vn/thoi-trang-be-trai.html\"><strong> Áo len bé trai</strong></a> được thiết kế với những hoạ tiết <strong>đáng yêu, dễ thương</strong> nhờ vào sự kết hợp màu vô cùng độc đáo giúp bé nổi bật hơn khi mặc, dù là đi chơi hay đi học.<img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/_MG_3100.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: left;\">Được lựa chọn từ những sợi len mềm mại, có <strong>độ co dãn tốt, độ thấm hút cao</strong> giúp bé thoải mái hoạt động cả ngày dài mà không lo bị đổ mồ hôi trong quá trình vui chơi, vận động.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/_MG_3103.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Với mẫu áo len có <strong>kiểu dáng basic</strong> rất dễ dàng để các mẹ có thể thoả sức sáng tạo các phong cách phối đồ cho các bé nhưng vẫn đảm bảo cho bé luôn được giữ ấm cho cơ thể.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/_MG_3105.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p><strong>Áo len phối KidsPlaza</strong> thích hợp mặc vào những hôm trời se lạnh, nhiệt độ thấp kết hợp thêm một chiếc quần dài giúp bé vừa ấm, vừa tạo điểm nhấn phong cách cá tính, độc đáo.</p>\r\n<h3><strong>Bảo quản sản phẩm</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không nên giặt bằng máy giặt, nên giặt tay để giữ độ bền cho sản phẩm</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 30°C</p>\r\n</li>\r\n<li>\r\n<p>Nên ủi/là mặt trái sản phẩm</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 279000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Áo len bé gái dài tay KidsPlaza gắn nơ hồng HN22D",
+                            "sku": "KIDS-413280029",
+                            "description": {
+                                "html": "<h2>Áo len dài tay KidsPlaza gắn nơ hồng xinh xắn cho bé gái từ 9 tháng - 4 tuổi</h2>\r\n<p style=\"text-align: left;\"><strong><a href=\"https://www.kidsplaza.vn/ao-be-gai.html\">Áo len bé gái</a></strong> dài tay KidsPlaza gắn nơ hồng HN22D là mẫu áo len không thể thiếu trong tủ đồ bé gái vào dịp thu đông. Chiếc áo vừa có kiểu dáng thiết kế điệu đà, xinh xắn mà lại còn giữ ấm cho bé trong những ngày se lạnh</p>\r\n<h2><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/ao-len-be-gai-dai-tay-kidsplaza-gan-no-hong-hn22d-1.jpg\" alt=\"\" width=\"500\" /></h2>\r\n<p style=\"text-align: center;\"><em>Áo len bé gái dài tay KidsPlaza gắn nơ hồng HN22D</em></p>\r\n<p style=\"text-align: left;\">Áo được làm từ chất liệu len đanh mịn, dày dặn, giữ ấm,<strong> giữ nhiệt tốt, an toàn</strong>, không gây khó chịu cho bé khi mặc. Sản phẩm thời trang phù hợp cho bé gái từ 1-4 tuổi</p>\r\n<h2><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/ao-len-be-gai-dai-tay-kidsplaza-gan-no-hong-hn22d-2.jpg\" alt=\"\" width=\"500\" /></h2>\r\n<p>Bề mặt vải len mềm mịn, không bai nhão xù, đường may tỉ mỉ cao làm tăng tính thẩm mỹ và độ bền của sản phẩm.</p>\r\n<h2><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/ao-len-be-gai-dai-tay-kidsplaza-gan-no-hong-hn22d-3.jpg\" alt=\"\" width=\"500\" /></h2>\r\n<p>Tay áo được bo mềm mại ngăn cản gió lùa làm lạnh cơ thể, giữ ấm cho bé được tốt hơn. </p>\r\n<h2><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/ao-len-be-gai-dai-tay-kidsplaza-gan-no-hong-hn22d-4.jpg\" alt=\"\" width=\"500\" /></h2>\r\n<p>Họa tiết nơ đan xen trên bề mặt áo tạo sự bắt mắt, chú ý tạo sự độc lạ cho chiếc áo thêm phần cách điệu xinh xắn</p>\r\n<p>Sản phẩm được đặt dệt riêng nên các mẹ yên tâm về chất liệu bo áo cũng như màu sắc của sản phẩm </p>\r\n<h3><strong>Bảo quản sản phẩm</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không nên giặt bằng máy giặt, nên giặt tay để giữ độ bền cho sản phẩm</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 30°C</p>\r\n</li>\r\n<li>\r\n<p>Nên ủi/là mặt trái sản phẩm</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 269000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Áo len gile bé trai túi gấu hoạ tiết siêu cute HN22D ",
+                            "sku": "KIDS-412260439",
+                            "description": {
+                                "html": "<h2>Áo len gile bé trai hoạ tiết túi gấu cute dễ thương</h2>\r\n<p style=\"text-align: left;\"><a href=\"https://www.kidsplaza.vn/thoi-trang-be-trai.html\"><strong>Áo len gile bé trai</strong></a> đang là một trong những mẫu áo hot nhất năm 2022 với thiết kế đẹp mắt, tinh xảo được sản xuất từ thương hiệu <strong>KidsPlaza.</strong></p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-len-gile-be-trai-tui-gau-hoa-tiet-sieu-cute-hn22d-1y-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Áo len gile bé trai túi gấu hoạ tiết siêu cute HN22D</em></p>\r\n<p style=\"text-align: left;\">Với chất liệu làm từ những sợi len<strong> siêu mềm mại</strong> giúp cho bé cảm giác dễ chịu khi mặc không lo bị ngứa dễ dàng cho bé vận động, vui chơi thoải mái.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-len-gile-be-trai-tui-gau-hoa-tiet-sieu-cute-hn22d-1y-5.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: left;\">Mỗi mẫu áo đều cho thấy sự tâm huyết gửi gắm của người thiết kế mang đến cho bé những sản phẩm phù hợp nhất, cảm giác thoái mái nhất cho bé.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-len-gile-be-trai-tui-gau-hoa-tiet-sieu-cute-hn22d-1y-4.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: left;\">Những hoạ tiết đơn giản hình gấu cũng giúp cho ba mẹ có thể dễ dàng lựa chọn, phối đồ cho bé để có những bộ trang phục đẹp nhất. <strong>Áo gile bé trai</strong> được sản xuất ra các size từ 1 tuổi đến 4 tuổi để các mẹ tha hồ lựa chọn cho bé.</p>\r\n<h3><strong>Bảo quản sản phẩm</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không nên giặt bằng máy giặt, nên giặt tay để giữ độ bền cho sản phẩm</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 30°C</p>\r\n</li>\r\n<li>\r\n<p>Nên ủi/là mặt trái sản phẩm</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 249000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Áo len bé gái dài tay KidsPlaza gắn nơ đỏ HN22D ",
+                            "sku": "KIDS-413280028",
+                            "description": {
+                                "html": "<h2>Áo len dài tay KidsPlaza gắn nơ đỏ xinh xắn cho bé gái từ 9 tháng - 4 tuổi</h2>\r\n<p style=\"text-align: left;\"><strong><a href=\"https://www.kidsplaza.vn/ao-be-gai.html\">Áo len bé gái</a></strong> dài tay KidsPlaza gắn nơ đỏ HN22D là mẫu áo len không thể thiếu trong tủ đồ bé gái vào dịp thu đông. Chiếc áo vừa có kiểu dáng thiết kế điệu đà, xinh xắn mà lại còn giữ ấm cho bé trong những ngày se lạnh</p>\r\n<h2><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/ao-len-be-gai-dai-tay-kidsplaza-gan-no-do-hn22d-1.jpg\" alt=\"\" width=\"500\" /></h2>\r\n<p style=\"text-align: center;\"><em>Áo len bé gái dài tay KidsPlaza gắn nơ đỏ HN22D</em></p>\r\n<p style=\"text-align: left;\">Áo được làm từ chất liệu len đanh mịn, dày dặn, giữ ấm,<strong> giữ nhiệt tốt, an toàn</strong>, không gây khó chịu cho bé khi mặc. Sản phẩm thời trang phù hợp cho bé gái từ 1-4 tuổi</p>\r\n<h2><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/ao-len-be-gai-dai-tay-kidsplaza-gan-no-do-hn22d-2.jpg\" alt=\"\" width=\"500\" /></h2>\r\n<p>Bề mặt vải len mềm mịn, không bai nhão xù, đường may tỉ mỉ cao làm tăng tính thẩm mỹ và độ bền của sản phẩm.</p>\r\n<h2><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/ao-len-be-gai-dai-tay-kidsplaza-gan-no-do-hn22d-3.jpg\" alt=\"\" width=\"500\" /></h2>\r\n<p>Tay áo được bo mềm mại ngăn cản gió lùa làm lạnh cơ thể, giữ ấm cho bé được tốt hơn. </p>\r\n<h2><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/ao-len-be-gai-dai-tay-kidsplaza-gan-no-do-hn22d-4.jpg\" alt=\"\" width=\"500\" /></h2>\r\n<p>Họa tiết nơ đan xen trên bề mặt áo tạo sự bắt mắt, chú ý tạo sự độc lạ cho chiếc áo thêm phần cách điệu xinh xắn</p>\r\n<p>Sản phẩm được đặt dệt riêng nên các mẹ yên tâm về chất liệu bo áo cũng như màu sắc của sản phẩm </p>\r\n<h3><strong>Bảo quản sản phẩm</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không nên giặt bằng máy giặt, nên giặt tay để giữ độ bền cho sản phẩm</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 30°C</p>\r\n</li>\r\n<li>\r\n<p>Nên ủi/là mặt trái sản phẩm</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 309000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Áo gile bông bé gái KidsPlaza cúc sườn HN22D (Hồng) ",
+                            "sku": "KIDS-413290310",
+                            "description": {
+                                "html": "<h2>Áo gile bông KidsPlaza cúc sườn hồng HN22D cho bé gái từ 3-24 tháng tuổi</h2>\r\n<p><strong>Đến hẹn lại lên</strong> <strong><a href=\"https://www.kidsplaza.vn/thoi-trang-be-gai.html\">Áo gile bé gái</a></strong> KidsPlaza cúc sườn HN22D (Hồng) là mẫu <strong>gile không thể thiếu</strong> trong tủ đồ của bé mỗi khi gió đông về.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/ao-gile-bong-be-trai-kidsplaza-cuc-suon-hn22d-hong-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Áo gile bông bé gái KidsPlaza cúc sườn HN22D (Hồng) </em></p>\r\n<p style=\"text-align: left;\">Áo gile bông bé gái KidsPlaza cúc sườn hồng HN22D với ưu điểm mềm mại thoáng khí thấm hút cực tốt an toàn với làn da của trẻ nhỏ.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/ao-gile-bong-be-trai-kidsplaza-cuc-suon-hn22d-hong-2.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Áo gile bông bé gái KidsPlaza là mẫu gile giữ ấm cơ thể rất tốt trong thời tiết chuyển mùa. Chất liệu cotton tuyển chọn cùng công nghệ sợi đan chéo tạo độ khít, cũng như co giãn mang đến sự mềm mại đảm bảo sự chuyển động thoải mái nhất cho bé.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/ao-gile-bong-be-trai-kidsplaza-cuc-suon-hn22d-hong-3.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Áo gile bông bé gái KidsPlaza cúc sườn HN22D (Hồng) với chất liệu trần bông 100% cotton thấm hút tốt, thân thiện với làn da cùng lớp bông nhẹ như mây</p>\r\n<p>Mẹ có thể kết hợp áo gile bông cho bé cùng những chiếc áo giữ nhiệt hay chiếc áo len ấm áp </p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/ao-gile-bong-be-trai-kidsplaza-cuc-suon-hn22d-hong-5.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Hàng cúc sườn thân áo được đính tỉ mỉ chi tiết thẳng hàng tăng độ thẩm mỹ cho chiếc áo được bắt mắt hơn</p>\r\n<h3><strong>Hướng dẫn sử dụng sản phẩm:</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 40 độ C</p>\r\n</li>\r\n<li>\r\n<p>Nên ủi mặt trái sản phẩm</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 159000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Bộ quần áo bé trai KidsPlaza in phối ván trượt xanh HN22D",
+                            "sku": "KIDS-611191277",
+                            "description": {
+                                "html": "<h2>Bộ quần áo thun dài bé trai hoạ tiết ván trượt năng động</h2>\r\n<p>Để chuẩn bị cho mùa đông sắp tới, các mẹ nên sắm ngay cho bé ngay cho tủ đồ của bé những bộ quần áo dài để bé có thể diện vào những lúc ở nhà, cũng như ra ngoài đi chơi một cách thoải mái nhất.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/bo-quan-ao-be-trai-kidsplaza-in-phoi-van-truot-xanh-hn22d-1y-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Bộ quần áo bé trai KidsPlaza in phối ván trượt xanh HN22D</em></p>\r\n<p><a href=\"https://www.kidsplaza.vn/bo-quan-ao-be-trai.html\"><strong> Bộ quần áo bé trai</strong></a> được sản xuất <strong>100% cotton</strong>, bên trong mềm mại, giúp cho bé có cảm giác dễ chịu khi mặc, khi bé vận động nhều cũng không lo bị ướt mồ hôi, thông thoáng cho cơ thể bé.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/bo-quan-ao-be-trai-kidsplaza-in-phoi-van-truot-xanh-hn22d-1y-2.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p><strong>Bộ quần áo bé trai KidsPlaza</strong> in phối ván trượt phù hợp cho các bé trai từ 1 đến 4 tuổi. Với thiết kế áo độc đáo kết hợp với những hoạ tiết năng động tạo nên sự cá tính cho bộ quần áo.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/bo-quan-ao-be-trai-kidsplaza-in-phoi-van-truot-xanh-hn22d-1y-4.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p><strong>Quần bé trai</strong> được thiết kế ống xuông, đũng quần rộng rãi thoải mái cho bé kể cả khi mặc bỉm.</p>\r\n<h3><strong>Bảo quản sản phẩm</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không nên giặt bằng máy giặt, nên giặt tay để giữ độ bền cho sản phẩm</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 30°C</p>\r\n</li>\r\n<li>\r\n<p>Nên ủi/là mặt trái sản phẩm</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 339000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Áo len hổ cá sấu phối KidsPlaza HN22D (xanh vàng)",
+                            "sku": "KIDS-611230643",
+                            "description": {
+                                "html": "<h2>Áo len cho bé trai KidsPlaza phối in họa tiết hổ cá sấu dễ thương, sinh động.</h2>\r\n<p><strong>Áo len bé trai KidsPlaza</strong> in họa tiết hổ cá sấu là một trong những sản phẩm thuộc bộ sưu tập <a href=\"https://www.kidsplaza.vn/thoi-trang-be-trai.html\"><strong>thời trang cho bé</strong></a> mới nhất của KidsPlaza năm 2022.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/ao-len-ho-ca-sau-phoi-kidsplaza-hn22d-1.jpg\" alt=\"Áo len hổ cá sấu phối KidsPlaza HN22D\" width=\"500\" height=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Áo len hổ cá sấu phối KidsPlaza HN22D sinh động, dễ thương</em></p>\r\n<p>Áo len cho bé thiết kế họa tiết <strong>dễ thương, sinh động</strong> được<strong> phối màu độc lạ</strong> giúp bé trở nên nổi bật dù đi chơi hay đi học. Chất liệu áo len <strong>cotton dày dặn, độ co dãn</strong> tốt giúp cho bé trở nên thoải mái, dễ chịu, dễ dàng vận động.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/ao-len-ho-ca-sau-phoi-kidsplaza-hn22d-2.jpg\" alt=\"Áo len hổ cá sấu phối KidsPlaza HN22D\" width=\"500\" height=\"500\" /></p>\r\n<p>Kiểu dáng basic giúp mẹ dễ dàng phối đồ cho bé, với thiết kế <strong>bo ống tay áo và cổ áo</strong> giữ ấm cho bé trong những ngày đông lạnh giá. Đây là một trong những chiếc <strong>áo cho bé trai</strong> không thể thiếu trong tủ đồ.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/ao-len-ho-ca-sau-phoi-kidsplaza-hn22d-3.jpg\" alt=\"Áo len hổ cá sấu phối KidsPlaza HN22D\" width=\"500\" height=\"500\" /></p>\r\n<p>Chất len mền mại, kiểu dáng đơn giản, màu sắc xinh xắn mẹ chỉ cần khéo léo mix đồ sẽ có ngay muôn vàn các<strong> bộ đồ cho bé</strong> khác nhau để diện trong mùa đông này.</p>\r\n<h3><strong>Hướng dẫn sử dụng sản phẩm:</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 40 độ C</p>\r\n</li>\r\n<li>\r\n<p>Nên ủi mặt trái sản phẩm</p>\r\n</li>\r\n</ul>\r\n<p> </p>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 279000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Áo gile bông bé trai KidsPlaza cúc sườn nâu HN22D ",
+                            "sku": "KIDS-412260518",
+                            "description": {
+                                "html": "<h2>Áo gile bông KidsPlaza cúc sườn nâu HN22D cho bé trai từ 3-24 tháng tuổi</h2>\r\n<p>Đến hẹn lại lên. <strong><a href=\"https://www.kidsplaza.vn/thoi-trang-be-trai.html\">Áo gile bé trai</a></strong> KidsPlaza cúc sườn HN22D (Nâu) là mẫu <strong>gile không thể thiếu</strong> trong tủ đồ của bé mỗi khi gió đông về.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/ao-gile-bong-be-trai-kidsplaza-cuc-suon-nau-hn22d-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Áo gile bông bé trai KidsPlaza cúc sườn HN22D (Nâu)</em></p>\r\n<p style=\"text-align: left;\">Áo gile bông bé trai KidsPlaza cúc sườn HN22D với ưu điểm mềm mại thoáng khí thấm hút cực tốt an toàn với làn da của trẻ nhỏ.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/ao-gile-bong-be-trai-kidsplaza-cuc-suon-nau-hn22d-3.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Áo gile bông bé trai KidsPlaza là mẫu gile giữ ấm cơ thể rất tốt trong thời tiết chuyển mùa. Chất liệu cotton tuyển chọn cùng công nghệ sợi đan chéo tạo độ khít, cũng như co giãn mang đến sự mềm mại đảm bảo sự chuyển động thoải mái nhất cho bé.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/ao-gile-bong-be-trai-kidsplaza-cuc-suon-nau-hn22d-4.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Áo gile bông bé trai KidsPlaza cúc sườn HN22D (Nâu) với chất liệu trần bông 100% cotton thấm hút tốt, thân thiện với làn da cùng lớp bông nhẹ như mây</p>\r\n<p>Mẹ có thể kết hợp áo gile bông cho bé cùng những chiếc áo giữ nhiệt hay chiếc áo len ấm áp </p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/ao-gile-bong-be-trai-kidsplaza-cuc-suon-nau-hn22d-6.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Hàng cúc sườn thân áo được đính tỉ mỉ chi tiết thẳng hàng tăng độ thẩm mỹ cho chiếc áo được bắt mắt hơn</p>\r\n<h3><strong>Hướng dẫn sử dụng sản phẩm:</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 40 độ C</p>\r\n</li>\r\n<li>\r\n<p>Nên ủi mặt trái sản phẩm</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 199000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Áo gile bông bé trai KidsPlaza cúc sườn HN22D (Xanh)",
+                            "sku": "KIDS-412260513",
+                            "description": {
+                                "html": "<h2>Áo gile bông KidsPlaza cúc sườn xanh HN22D cho bé trai từ 3-24 tháng tuổi</h2>\r\n<p>Đến hẹn lại lên. <strong><a href=\"https://www.kidsplaza.vn/thoi-trang-be-trai.html\">Áo gile bé trai</a></strong> KidsPlaza cúc sườn HN22D (Xanh) là mẫu <strong>gile không thể thiếu</strong> trong tủ đồ của bé mỗi khi gió đông về.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/ao-gile-be-trai-bong-kidsplaza-cuc-suon-hn22d-xanh-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Áo gile bông bé trai KidsPlaza cúc sườn HN22D (Xanh)</em></p>\r\n<p style=\"text-align: left;\">Áo gile bông bé trai KidsPlaza cúc sườn HN22D (Xanh) với ưu điểm mềm mại thoáng khí thấm hút cực tốt an toàn với làn da của trẻ nhỏ.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/ao-gile-be-trai-bong-kidsplaza-cuc-suon-hn22d-xanh-2.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Áo gile bông bé trai KidsPlaza là mẫu gile giữ ấm cơ thể rất tốt trong thời tiết chuyển mùa. Chất liệu cotton tuyển chọn cùng công nghệ sợi đan chéo tạo độ khít, cũng như co giãn mang đến sự mềm mại đảm bảo sự chuyển động thoải mái nhất cho bé.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/ao-gile-be-trai-bong-kidsplaza-cuc-suon-hn22d-xanh-3.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Áo gile bông bé trai KidsPlaza cúc sườn HN22D (Xanh) với chất liệu trần bông 100% cotton thấm hút tốt, thân thiện với làn da cùng lớp bông nhẹ như mây</p>\r\n<p>Mẹ có thể kết hợp áo gile bông cho bé cùng những chiếc áo giữ nhiệt hay chiếc áo len ấm áp </p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/ao-be-trai/ao-gile-be-trai-bong-kidsplaza-cuc-suon-hn22d-xanh-4.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Hàng cúc sườn thân áo được đính tỉ mỉ chi tiết thẳng hàng tăng độ thẩm mỹ cho chiếc áo được bắt mắt hơn</p>\r\n<h3><strong>Hướng dẫn sử dụng sản phẩm:</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 40 độ C</p>\r\n</li>\r\n<li>\r\n<p>Nên ủi mặt trái sản phẩm</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 199000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Body bé gái KidsPlaza cài giữa họa tiết voi bông HN22D (Hồng) ",
+                            "sku": "KIDS-413230119",
+                            "description": {
+                                "html": "<h2>Body cài giữa họa tiết voi bông KidsPlaza HN22D cho bé gái từ 3-18 tháng tuổi</h2>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/body-be-trai-kidsplaza-cai-giua-hoa-tiet-voi-bong-hn22d-hong-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Body bé gái KidsPlaza cài giữa họa tiết voi bông HN22D (Hồng) </em></p>\r\n<p style=\"text-align: left;\"><strong><a href=\"https://www.kidsplaza.vn/quan-ao-so-sinh.html\">Body bé gái</a></strong> KidsPlaza cài giữa họa tiết voi bông HN22D (Hồng) là mẫu body được yêu thích nhất trong bộ sưu tập đồ sơ sinh của KidsPlaza. </p>\r\n<p style=\"text-align: center;\"><em><img src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/body-be-trai-kidsplaza-cai-giua-hoa-tiet-voi-bong-hn22d-hong-2.jpg\" alt=\"\" width=\"500\" /></em></p>\r\n<p>Body cho bé gái in voi liền thân gợi sự gọn gàng khi vận động. Phần eo body được may rộng rãi tạo sự thoải mái cho bụng bé mỗi khi lật bụng hay bò trườn</p>\r\n<p style=\"text-align: center;\"><em><img src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/body-be-trai-kidsplaza-cai-giua-hoa-tiet-voi-bong-hn22d-hong-3.jpg\" alt=\"\" width=\"500\" /></em></p>\r\n<p>Với khả năng kháng khuẩn vượt trội, được làm từ chất liệu <strong>100% cotton cao cấp</strong> có khả năng thấm hút và co dãn tốt đồng thời rất thân thiện với làn da mỏng manh của bé</p>\r\n<p style=\"text-align: center;\"><em><img src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/body-be-trai-kidsplaza-cai-giua-hoa-tiet-voi-bong-hn22d-hong-6.jpg\" alt=\"\" width=\"500\" /></em></p>\r\n<p style=\"text-align: left;\">Đường chỉ may chắc chắn, đường vắt sổ cẩn thận, không gây cộm, khó chịu khi bé diện trang phục suốt cả ngày.</p>\r\n<p style=\"text-align: left;\">Hàng cúc bấm bên dưới đũng thuận tiện cho mẹ mỗi khi thay tã bỉm cho trẻ đũng body rộng rãi, được đẩy xuống dài hơn để không gây cản trở cho các hoạt động của bé khi mặc bỉm tã bên trong</p>\r\n<h3>Thông tin chi tiết:</h3>\r\n<ul>\r\n<li>\r\n<p>Tên sản phẩm: Body bé gái KidsPlaza cài giữa họa tiết voi bông HN22D (Hồng)</p>\r\n</li>\r\n<li>\r\n<p>Độ tuổi: 3-18M</p>\r\n</li>\r\n<li>\r\n<p>Màu sắc: Hồng</p>\r\n</li>\r\n<li>\r\n<p>Thương hiệu: Kids Plaza</p>\r\n</li>\r\n<li>\r\n<p>Xuất xứ: Việt Nam.</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 279000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Bộ quần áo bé trai cài chéo KidsPlaza in voi nâu HN22D ",
+                            "sku": "KIDS-412190270",
+                            "description": {
+                                "html": "<h2>Bộ quần áo cài chéo KidsPlaza in voi nâu năng động, tinh nghịch cho bé trai</h2>\r\n<p>Bộ quần áo bông bé trai cài vai KidsPlaza in voi là sản phẩm thiết kế thời trang dành riêng cho bé trai từ 0-24 tháng tuổi mang đến <strong>sự ấm áp, cute</strong> cực kì phù hợp vào tiết trời đông se lạnh </p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-quan-ao-be-trai-cai-cheo-kidsplaza-in-voi-nau-hn22d-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Bộ quần áo bé trai cài chéo KidsPlaza in voi nâu HN22D </em></p>\r\n<p>Bộ <strong><a href=\"https://www.kidsplaza.vn/bo-quan-ao-be-trai.html\">quần áo bé trai</a></strong> cài vai KidsPlaza in voi được làm từ chất liệu trần bông<strong> cao cấp mềm mại</strong>, an toàn cho làn da dịu nhẹ của bé không những vậy còn toát lên sự khỏe khoắn đem đến nguồn năng lượng mới mẻ trong mọi cuộc vui</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-quan-ao-be-trai-cai-cheo-kidsplaza-in-voi-nau-hn22d-2.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Bộ quần áo bé trai cài vai in voi với thiết kế <strong>tinh tế, màu sắc trầm ấm</strong> kết hợp ăn ý mang đến sự sôi động, tinh nghịch và bứt phá</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-quan-ao-be-trai-cai-cheo-kidsplaza-in-voi-nau-hn22d-3.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Sản phẩm bộ thu đông bé trai có đường may đẹp, vắt sổ chắc chắn cùng các hình in độc lạ ngộ nghĩnh, thương hiệu thời trang trẻ em <strong><a href=\"https://www.kidsplaza.vn/\">KidsPlaza</a></strong> chắc chắn sẽ làm hài lòng các thiên thần nhỏ cùng các mẹ khó tính nhất.</p>\r\n<p>Họa tiết chú voi ngộ nghĩnh được in sắc nét tạo sự đáng yêu cho bộ trang phục</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-quan-ao-be-trai-cai-cheo-kidsplaza-in-voi-nau-hn22d-6.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Quần được thiết kế cùng chất liệu chun co giãn, ống quần bo kín đáo đem tới cho bé sự ấm áp, bảo vệ bé trước những cơn gió lạnh</p>\r\n<h3><strong>Bảo quản sản phẩm:</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không nên giặt bằng máy giặt, nên giặt tay để giữ độ bền cho sản phẩm</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 40°C</p>\r\n</li>\r\n<li>\r\n<p>Nên ủi/là mặt trái sản phẩm</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 299000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Bộ quần áo bông bé gái cài chéo KidsPlaza in voi hồng HN22D",
+                            "sku": "KIDS-413190151",
+                            "description": {
+                                "html": "<h2>Bộ quần áo bé gái cài chéo hình voi ngộ nghĩnh, đáng yêu</h2>\r\n<p>Vào mùa đông, thời tiết bắt đầu chuyển lạnh cũng là lúc sắm ngay cho bé những bộ quần áo không chỉ để diện ra ngoài, còn là để giữ cho cơ thể bé luôn ấm.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/bo-quan-ao-bong-be-gai-cai-cheo-kidsplaza-in-voi-hong-hn22d-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Bộ quần áo bông bé gái cài chéo KidsPlaza in voi hồng HN22D</em></p>\r\n<p style=\"text-align: left;\">Với<strong> thiết kế hoạ tiết đáng yêu</strong> hình chú voi con đáng yêu kết hợp với màu hồng nhẹ nhàng tạo nên một nét dễ thương, phù hợp cho việc mặc ở nhà hay đi chơi.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai-1/bo-quan-ao-bong-be-gai-cai-cheo-kidsplaza-in-voi-hong-hn22d2.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: left;\"><strong>Bộ <a href=\"https://www.kidsplaza.vn/thoi-trang-be-gai.html\">quần áo bé gái</a></strong> chất liệu là<strong> 100% cotton</strong>, bông mềm mại giúp cho áo luôn thông thoáng, thấm hút mồ hôi tốt, tạo cho bé cảm giác dễ chịu khi mặc, thoải mái khi vận động. </p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-gai/bo-quan-ao-bong-be-gai-cai-cheo-kidsplaza-in-voi-hong-hn22d-7.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: left;\"><strong>Bộ quần áo</strong> <strong>bé gái</strong> có đầy đủ các size từ 0-2 tuổi, ngoài ra áo còn có cài chéo thuận tiện cho việc thay quần áo cho bé, quần cũng được thiết kế với bo chun, co giãn ở hai ống quần nhưng vẫn tạo cảm giác thoải mái cho bé khi mặc, không lo bị cộm khi mặc bỉm.</p>\r\n<h3><strong>Bảo quản sản phẩm</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không nên giặt bằng máy giặt, nên giặt tay để giữ độ bền cho sản phẩm</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 30°C</p>\r\n</li>\r\n<li>\r\n<p>Nên ủi/là mặt trái sản phẩm</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 299000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Bộ quần áo bé trai KidsPlaza in phối ván trượt cam HN22",
+                            "sku": "KIDS-611191273",
+                            "description": {
+                                "html": "<h2>Bộ quần áo bé trai sành điệu KidsPlaza in phối ván trượt cho bé từ 1-4 tuổi.</h2>\r\n<p>Với thiết kế năng động set<strong> bộ quần áo đồ thun dài tay KidsPlaza</strong> sẽ là một trong những bộ <a href=\"https://www.kidsplaza.vn/bo-quan-ao-be-trai.html\"><strong>quần áo cho bé trai</strong> </a>sành điệu để mẹ bổ sung cho tủ đồ của bé.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/quan-ao-be-trai/bo-quan-ao-be-trai-kidsplaza-in-phoi-van-truot-cam-hn22d-1.jpg\" alt=\"Bộ quần áo bé trai KidsPlaza in phối ván trượt cam HN22\" width=\"500\" height=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Bộ quần áo bé trai KidsPlaza in phối ván trượt cam HN22</em></p>\r\n<p>Bộ quần áo bé trai có sự kết hợp hài hòa về<strong> màu sắc, họa tiết năng động</strong>, dễ thương và chất liệu<strong> 100% cotton</strong> thân thiện với làn da bé sẽ giúp cho bé cảm thấy thoải mái, dễ chịu khi vận động.</p>\r\n<h2><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/quan-ao-be-trai/bo-quan-ao-be-trai-kidsplaza-in-phoi-van-truot-cam-hn22d-2.jpg\" alt=\"Bộ quần áo bé trai KidsPlaza in phối ván trượt cam HN22\" width=\"500\" height=\"500\" /></h2>\r\n<p style=\"text-align: left;\">Áo cho bé trai dài tay KidsPlaza được thiết hoàn hảo với sự kết hợp của áo gile và áo thun đây chính là một trong những phong cách quần áo cho bé hot trend hiện nay. <strong>Bộ quần áo thun dài tay KidsPlaza</strong> in phối ván trượt sẽ là một trợ thủ cho mẹ dễ dàng lên đồ cho bé đi chơi mà không cần đắn đo suy nghĩ- con sẽ mặc gì?</p>\r\n<h2><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/quan-ao-be-trai/bo-quan-ao-be-trai-kidsplaza-in-phoi-van-truot-cam-hn22d-5.jpg\" alt=\"Bộ quần áo bé trai KidsPlaza in phối ván trượt cam HN22\" width=\"500\" height=\"500\" /></h2>\r\n<p>Họa tiết ván trượt in trên áo bằng chất liệu an toàn với da bé, hình ảnh năng động được in một cách sắc nét.</p>\r\n<h2><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai/quan-ao-be-trai/bo-quan-ao-be-trai-kidsplaza-in-phoi-van-truot-cam-hn22d-6.jpg\" alt=\"Bộ quần áo bé trai KidsPlaza in phối ván trượt cam HN22\" width=\"500\" height=\"500\" /></h2>\r\n<p style=\"text-align: left;\">Bộ quần áo bé trai KidsPlaza in phối ván trượt được thiết kế bo chun ở cả ống tay và ống chân phù hợp cho các bé  trai từ 1 đến 4 tuổi.</p>\r\n<h3><strong>Bảo quản sản phẩm:</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không nên giặt bằng máy giặt, nên giặt tay để giữ độ bền cho sản phẩm</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 40°C</p>\r\n</li>\r\n<li>\r\n<p>Nên ủi/là mặt trái sản phẩm</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 399000, "currency": "VND" } } }
+                        },
+                        {
+                            "name": "Bộ quần áo bông bé trai cài chéo KidsPlaza in voi HN22D (Xanh)",
+                            "sku": "KIDS-412190264",
+                            "description": {
+                                "html": "<h2>Bộ quần áo bông cài chéo KidsPlaza in voi cho bé trai từ 0-24 tháng tuổi</h2>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-bong-voi-cai-cheo-kidsplaza-xanh-dt-0-3m-hn22d-1.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p style=\"text-align: center;\"><em>Bộ quần áo bông bé trai cài chéo KidsPlaza in voi HN22D (Xanh)</em></p>\r\n<p style=\"text-align: left;\">Bộ quần áo bông bé trai cài chéo KidsPlaza in voi là sản phẩm thiết kế thời trang dành riêng cho bé trai từ 0-24 tháng tuổi mang đến sự ấm áp, cute cực kì phù hợp vào tiết trời đông se lạnh </p>\r\n<p style=\"text-align: left;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-bong-voi-cai-cheo-kidsplaza-xanh-dt-0-3m-hn22d-2.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Bộ <strong><a href=\"https://www.kidsplaza.vn/bo-quan-ao-be-trai.html\">quần áo bé trai</a></strong> cài chéo KidsPlaza in voi được làm từ chất liệu trần bông<strong> cao cấp mềm mại</strong>, an toàn cho làn da dịu nhẹ của bé không những vậy còn toát lên sự khỏe khoắn đem đến nguồn năng lượng mới mẻ trong mọi cuộc vui</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-bong-voi-cai-cheo-kidsplaza-xanh-dt-0-3m-hn22d-3.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Bộ quần áo bé trai cài chéo in voi với thiết kế <strong>tinh tế, màu sắc tươi sáng</strong> kết hợp ăn ý mang đến sự năng động, tinh nghịch và bứt phá trong mọi cuộc vui của bé</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-bong-voi-cai-cheo-kidsplaza-xanh-dt-0-3m-hn22d-4.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Sản phẩm bộ thu đông bé trai có đường may đẹp, vắt sổ chắc chắn cùng các hình in độc lạ ngộ nghĩnh, thương hiệu thời trang trẻ em <strong><a href=\"https://www.kidsplaza.vn/\">KidsPlaza</a></strong> chắc chắn sẽ làm hài lòng các thiên thần nhỏ cùng các mẹ khó tính nhất.</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-bong-voi-cai-cheo-kidsplaza-xanh-dt-0-3m-hn22d-8.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Họa tiết chú voi ngộ nghĩnh được in sắc nét tạo sự đáng yêu cho bộ trang phục</p>\r\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn-v2.kidsplaza.vn/media/wysiwyg/product/thoi-trang-2022/thoi-trang-be-trai-1/bo-bong-voi-cai-cheo-kidsplaza-xanh-dt-0-3m-hn22d-7.jpg\" alt=\"\" width=\"500\" /></p>\r\n<p>Quần được thiết kế cùng chất liệu chun co giãn, ống quần bo kín đáo đem tới cho bé sự ấm áp, bảo vệ bé trước những cơn gió lạnh</p>\r\n<h3><strong>Bảo quản sản phẩm:</strong></h3>\r\n<ul>\r\n<li>\r\n<p>Hạn chế dùng sản phẩm giặt tẩy</p>\r\n</li>\r\n<li>\r\n<p>Không ngâm, giặt chung với sản phẩm ra màu</p>\r\n</li>\r\n<li>\r\n<p>Không nên giặt bằng máy giặt, nên giặt tay để giữ độ bền cho sản phẩm</p>\r\n</li>\r\n<li>\r\n<p>Không giặt trong nước nóng trên 40°C</p>\r\n</li>\r\n<li>\r\n<p>Nên ủi/là mặt trái sản phẩm</p>\r\n</li>\r\n</ul>"
+                            },
+                            "price_range": { "minimum_price": { "regular_price": { "value": 299000, "currency": "VND" } } }
+                        }
+                    ],
+                    "page_info": { "page_size": 20, "current_page": 1 }
+                }
+            }
+        ]
+    }
+}

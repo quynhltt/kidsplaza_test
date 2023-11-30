@@ -1,0 +1,59 @@
+.userInfo .username {
+  border-radius: 20px;
+  border-top-left-radius: 1px solid var(--lightGray);
+  border-top-right-radius: 1px solid var(--lightGray);
+  box-shadow: 0 0 0.8em var(--lightGray);
+  width: 90%;
+  margin: 5px auto 0;
+}
+
+.userInfo .username .name {
+  border-right: 1px solid var(--lightGray);
+}
+
+.userInfo .username .name .ava {
+  border: 1px solid var(--lightGray);
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  border: 1px solid var(--lightGray);
+  border-radius: 50px;
+}
+
+.userInfo .username .name .quickBuyBtn {
+  background-color: var(--lightBlue);
+  border-radius: 20px;
+  padding: 5px 10px;
+  margin-top: 10px;
+}
+
+.userInfo .option .optionItem .icon {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  border: 1px solid var(--lightGray);
+  border-radius: 40px;
+}
+
+.userInfo .app {
+  background-color: var(--lightPink);
+}
+
+.userInfo .app .title {
+  color: var(--lightBlue);
+  font-size: 18px;
+}
+
+.userInfo .app .appContent {
+  font-size: 14px;
+  text-align: left;
+  padding: 0 30px;
+}
+
+.userInfo .app .qrCode .image {
+  width: 35%;
+  margin: 0 auto;
+}
